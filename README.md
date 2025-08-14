@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is built while following the **Complete React Native Course** on YouTube by freeCodeCamp.  
+This project is built while following the **Complete React Native Course** on YouTube by Net Ninja.  
 The playlist walks through building a React Native app—from setting up with Expo, working with core components like Text, View & Image, to building navigation-heavy, stateful functionality.  
 [Watch the playlist here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNTz3sxqGTfxAwU-DIHJd2)
 
