@@ -29,7 +29,7 @@ The playlist walks through building a React Native app—from setting up with Ex
 
 ## Credits & Attribution
 
-This project is inspired by and adapted from the **Complete React Native Course** by freeCodeCamp on YouTube.  
+This project is inspired by and adapted from the **Complete React Native Course** by Net Ninja on YouTube.  
 The course serves as a guide—every effort has been made to ensure fair use by incorporating original enhancements and commentary.  
 [Course Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNTz3sxqGTfxAwU-DIHJd2)
 
